@@ -17,7 +17,7 @@ This project analyzes customer purchasing behavior using an RFM (Recency, Freque
 ## Files
 
 - `northwind_customer_analysis.sql` — full SQL script with business questions and queries
-- `Northwind_Customer_Revenue_Analysis.twbx` — packaged Tableau workbook
+- `Northwind Customer & Revenue Analysis.twbx` — packaged Tableau workbook
 - `customer_rfm.csv`, `top_products_revenue.csv`, `top_products_units.csv`, `revenue_by_year.csv` — exported query results used in Tableau
 
 ## Dashboard Highlights
