@@ -2,7 +2,7 @@
 
 Customer segmentation, churn risk, and revenue analysis on the Northwind sample database — built with SQL for data extraction and business logic, and Tableau for interactive visualization.
 
-**Live Dashboard:** [View on Tableau Public][https://public.tableau.com/views/NorthwindCustomerRevenueAnalysis/NorthwindCustomerRevenueAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
+**Live Dashboard:** [View on Tableau Public][https://public.tableau.com/views/NorthwindCustomerRevenueAnalysis/NorthwindCustomerRevenueAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
 
 <img width="1710" height="1070" alt="Screenshot 2026-09-04 at 11 09 26 PM" src="https://github.com/user-attachments/assets/dd616757-6508-4142-9e1c-ec83b442eee0" />
 
